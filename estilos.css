@@ -31,6 +31,10 @@ h1 {
     border-radius: 10px;
 }
 
+div {
+    width: 100€;
+}
+
 #lista {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
