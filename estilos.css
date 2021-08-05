@@ -30,3 +30,24 @@ h1 {
     border-color: black;
     border-radius: 10px;
 }
+
+#lista {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.separador {
+    color:red
+}
+
+#lista li {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: black;
+}
+
+a {
+    color:floralwhite
+}
